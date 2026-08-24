@@ -26,14 +26,18 @@ b.i) **GOVERNING MODEL**: the mechanical behavior can be modeled using static mo
 
 and for the tab: Ffinger​ x Lfinger ​= Fopening​ x Lopening​
 where:
+
 Ffinger - force applied by user's finger
+
 Lfinger - distance from rivet to point where finger applies force
+
 Fopening - downward force applied by tab
+
 Lopening - distance from rivet to tab's contact point
 
 b.ii) An assumption could be that the pull tab can be treated as rigid body therefore making the deformation small enough where it can be modeled as rotation about the rivet instead of the bending of the tab.
 
-c)
+c) ![Description of image](pull-tab.jpg)
 
 
 ## Decide
