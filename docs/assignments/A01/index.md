@@ -4,6 +4,8 @@
 
 
 ## Analyze
+  TASK A:
+
 
 
 ## Decide
