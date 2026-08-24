@@ -37,7 +37,10 @@ Lopening - distance from rivet to tab's contact point
 
 b.ii) An assumption could be that the pull tab can be treated as rigid body therefore making the deformation small enough where it can be modeled as rotation about the rivet instead of the bending of the tab.
 
-c) ![Description of image](pull-tab.jpg)
+c) ![Can Pull Tab](pull-tab.jpg)
+
+Function: the pull tab is a stamped metal lever with a lift end, nose end, and a riveted island. The user places their finger away from the rivet and that creates a moment arm allowing the nose end to drive into the can, tearing away at the metal to create an opening.
+
 
 
 ## Decide
