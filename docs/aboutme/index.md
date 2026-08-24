@@ -1,2 +1,2 @@
 #About Me
-This is how to edit
+My name is Jakub Moos, I am a mechanical engineering student at UNC Charlotte. I wanted to study mechanical engineering because I love taking things apart and learning how they work. Ever since I was young I wanted to design things and help shape the world around me. I'm into cars and taking my knowledge that I've gained throughout my classes and putting them to use; whether it's designing a bracket or trying to find the root cause of a problem I'm having. 
