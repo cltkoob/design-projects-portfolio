@@ -46,9 +46,33 @@ Function: the pull tab is a stamped metal lever with a lift end, nose end, and a
 
 Function: the rivet mechanically joins the tab to the can allowing the tab to rotate about the rivet. It is critical because it provides the lever's fulcrum. It also must withstand the reaction forces generated.
 
+![Can End](can-end.jpeg)
+
+Function: Thin, formed metal panel containing a scored panel, the rivet, and the reinforcing geometry. The outer shape provides structural stiffness while allowing the thin metal to withstand the internal pressure of the can. 
+
+d) **Patent**
+
+Patent Number: US 6,164,480  Inventors: Paul R. Heinicke and Trevor Price
+
+Some alternative solutions I found were:
+
+i) _Traditional removable pull-tab_ can that uses a ring tab where pulling it caused the scored section to tear away. The tab and teared piece are removed from the can.
+
+ii) _Manual can openers_ use a cutting wheel and mechanical leverage to shear through the metal lid around the can to create an opening.
+
+**Design Decision** 
+A strong decision was to position the tab so that it presses on the unscored area of the tear panel. This reduces the chance of accidentally puncturing the can during shipping and handling. 
+
+
 
 
 ## Decide
+
+**1. Homepage Identity**
+
+The homepage is what people see when they first open your portfolio. It must have a good impression and make sure that it doesn't leave anyone who is viewing it confused. This content is intended for instructor, engineering professionals, and other technical readers who need to understand the purpose and organization of the portfolio. My portfolio will clearly identify assignments and projects and focus on clear organization rather than personal background.
+
+**2. One Intentional Customization**
 
 
 ## Communicate
