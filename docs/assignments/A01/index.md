@@ -39,7 +39,7 @@ b.ii) An assumption could be that the pull tab can be treated as rigid body ther
 
 c)
 
-![Can Pull Tab](Pull-tab.jpeg)
+![Can Pull Tab](./Pull-tab.jpeg)
 
 Function: the pull tab is a stamped metal lever with a lift end, nose end, and a riveted island. The user places their finger away from the rivet and that creates a moment arm allowing the nose end to drive into the can, tearing away at the metal to create an opening.
 
