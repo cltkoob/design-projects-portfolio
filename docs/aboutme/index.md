@@ -8,3 +8,8 @@ I want to become an engineer who can bridge the gap between theory and practical
 **"What does it mean to defend an engineering decision : and do you currently know how to do it?"**
 
 Being able to defend an engineering decision means being able to explain why a solution was selected over the available alternatives. It's more than just saying that a design works or that you just prefer one option over the next. You must be able to explain why you considered making my choice and the tradeoffs because of that. Since I am at the beginning of my engineering journey, I understand the basic ideas of defending a decision, but I don't believe I can do it at a professional level just yet. Usually, I explain why I made a choice and leave it at that. I need to be able to become ore keen on supporting these choices with analysis and documentation. One of my goals is to develop this ability so I can clearly justify and defend my decisions
+
+
+
+
+I spent roughly 4 hours on this assignment
