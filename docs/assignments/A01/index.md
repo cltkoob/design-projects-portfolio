@@ -74,8 +74,11 @@ The homepage is what people see when they first open your portfolio. It must hav
 
 **2. One Intentional Customization**
 
-I decided to change the color at the top to red to create a strong visual hierarchy and make my page stand out as soon as its opened. 
+I decided to change the color at the top to red to create a strong visual hierarchy and make my page stand out as soon as its opened. Additionally, I bolded and italicized the important topics in the portfolio, making it easier for users to navigate to a section that they need to find. 
+
+**3. Documentation Standard**
+
+For every assignment I will clearly document the engineering problem, including assumptions, analysis, evidence, with decisions and conclusions at the end so other engineers can understand and evaluate my work without needing extra explanation.
 
 
-## Communicate
 
