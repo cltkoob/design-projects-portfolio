@@ -74,6 +74,8 @@ The homepage is what people see when they first open your portfolio. It must hav
 
 **2. One Intentional Customization**
 
+I decided to change the color at the top to red to create a strong visual hierarchy and make my page stand out as soon as its opened. 
+
 
 ## Communicate
 
