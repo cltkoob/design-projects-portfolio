@@ -27,11 +27,11 @@ A = pi*d^2 / 4 to find the diameter.
 For my CAD drawing, I started out with a perimeter of the truss using the given dimensions. Once that was set up, I was ready to create the extrusions to show the members.
 ![model](firstmodel.png)
 ![cut2](cut2.png)
-
+[Download SolidWorks Truss Model](completetruss.SLDPRT)
 Once I had completed the initial design, it was time to add the holes for the pins - 1 on each corner and 1 in the middle. After that it was complete, I had to choose a material and see how accurate my calculations on my truss weight was. Since SolidWorks didn't have A500 Steel, I chose ASTM A36 Steel which I believed would net me close results. After my calculations, I got a theoretical mass of 6.83kg. Once I chose the material and ran the test, I ended with 6.627kg. This meant that there was only about ~3% error and my model and calculations were very close. 
 ![properties](properties.png)
 
 
 **Lessons Learned**
 
-I feel like I learned a lot from this assignment. It has been a while since I did any CAD and I had to do a good amount of refreshing before I was able to start working on my project. Additionally, having to not only have correct calculations but also correlate that into the design was a bit challenging but also rewarding when the outcome was similar. Comparing my calculated mass to the mass from SolidWorks  helped me understand the ways calculations can be applied to a real CAD model and used to verify the design. Overall, this assignment gave me a better understanding of how calculations, material selection, and CAD modeling all work together in the engineering design process.
+I feel like I learned a lot from this assignment. It has been a while since I did any CAD and I had to do a good amount of refreshing before I was able to start working on my project. Additionally, having to not only have correct calculations but also correlate that into the design was a bit challenging but also rewarding when the outcome was similar. Comparing my calculated mass to the mass from SolidWorks  helped me understand the ways calculations can be applied to a real CAD model and used to verify the design. Overall, this assignment gave me a better understanding of how calculations, material selection, and CAD modeling all work together in the engineering design process. This assignment took me about 8 hours to complete.
