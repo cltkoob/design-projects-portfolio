@@ -1,5 +1,5 @@
 # A2 – Truss Stress Analysis
-
+![Truss Diagram](trussdiagram.png)
 ## Objectives
 -Design a lightweight planar truss using A500 steel or an alternative material.
 -Create free body diagrams (FBDs) for joints and critical pins.
